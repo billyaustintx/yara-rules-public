@@ -1,5 +1,5 @@
 ## yara-rules-public
->Public Yara rules for the community detecting not so good, bad and ugly IOCs.
+>Public Yara rules for the community detecting the not so good, bad and ugly malicious files.
 
 
 ### Who can use these rules?
